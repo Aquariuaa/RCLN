@@ -5,7 +5,7 @@
 
 This work addresses three major challenges in causal discovery from alarm event sequences in WSNs:
 
-- **Noise Interference**
+- **Missing Noise Interference**
 - **Computational Efficiency**
 
 ## Datasets
